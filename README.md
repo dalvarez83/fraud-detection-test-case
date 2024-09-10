@@ -61,7 +61,7 @@ from the main folder in this repository.
 If you are using conda (we recommend installing conda via [Miniforge](https://github.com/conda-forge/miniforge)), you can create a new environment as follows:
 
 ```bash
-conda create -n "test-fraud" python=3.9 numpy=1.21.2 scipy=1.7.0 scikit-learn=1.0 matplotlib=3.4.3 pandas=1.3.2
+conda create -n "test-fraud" python=3.9 numpy=1.21.2 scipy=1.7.0 scikit-learn=1.0 matplotlib=3.4.3 pandas=1.3.2 DataProfiler=0.12.0 plotly=5.24.0
 ```
 
 After creating this environment, you can activate it via
@@ -77,7 +77,7 @@ conda activate "test-fraud"
 If you prefer using `pip`, you can go ahead and install the required packages via
 
 ```bash
-pip install numpy==1.21.2 scipy==1.7.0 scikit-learn==1.0 matplotlib==3.4.3 pandas==1.3.2
+pip install numpy==1.21.2 scipy==1.7.0 scikit-learn==1.0 matplotlib==3.4.3 pandas==1.3.2 DataProfiler=0.12.0 plotly=5.24.0
 ```
 
 However, I highly recommend creating a new virtual environment. 
