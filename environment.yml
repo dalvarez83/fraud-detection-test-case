@@ -13,4 +13,6 @@ dependencies:
   - DataProfiler<=0.12.0
   - plotly<=5.24.0
   - seaborn==0.12.2
+  - ydata-profiling<=4.10.0
+  - dataprep<=0.4.5
 prefix: /opt/miniconda3/envs/fraud-detection-test-case
