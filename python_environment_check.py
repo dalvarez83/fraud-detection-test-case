@@ -52,6 +52,7 @@ if __name__ == '__main__':
         'scipy': '1.7.0',
         'matplotlib': '3.4.3',
         'sklearn': '1.0',
-        'pandas': '1.3.2'
+        'pandas': '1.3.2',
+        'seaborn': '0.12.2'
     }
     check_packages(d)
