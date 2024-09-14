@@ -15,5 +15,4 @@ dependencies:
   - seaborn==0.12.2
   - ydata-profiling<=4.10.0
   - dataprep<=0.4.5
-  - boruta_py=0.4.3
 prefix: /opt/miniconda3/envs/fraud-detection-test-case
